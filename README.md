@@ -34,6 +34,16 @@ Feira de Soluções| 12/12/2024|	a fazer	| Ver Relatório
 ## Sprint 3 - Power BI 
 <img width="991" alt="2f377ced-indicadores-de-projetos" src="https://github.com/user-attachments/assets/032d91b6-b660-4842-8853-92d2baac4eb9">
 
+# Tenologias Utilizadas 
+## Produto 
+- Power BI
+## Tecnologias Específicas/Apoio
+- GitHub
+- Jira Sotware
+- Slack
+- Pipz Academy
+- Office 
+
 
 
 
