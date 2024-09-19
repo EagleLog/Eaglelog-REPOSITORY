@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
  ** Sprint |**	Previsão |	**Status |	**Histórico
 :--------- | :--------- | :--------- | :---------
 Kick Off|	02/09/2024|	concluído|	Ver Relatório
-Backlog |	23/09/2024	|em progresso |	Ver Relatório
+Backlog |	30/09/2024	|em progresso |	Ver Relatório
 01|	14/10/2024|	a fazer |	Ver Relatório
 02|	04/11/2024	|a fazer |	Ver Relatório
 03|	25/11/2024|	a fazer	| Ver Relatório
@@ -43,8 +43,11 @@ Feira de Soluções| 12/12/2024|	a fazer	| Ver Relatório
 - Slack
 - Pipz Academy
 - Office 
-
-
-
-
-
+## Mindset Digital
+- [Backlog](https://www.youtube.com/watch?v=Ipg6Ox6qlC8)
+- [5W2H](https://www.youtube.com/watch?v=M4dNnrcUq9s)
+- [SCRUM](https://www.youtube.com/watch?v=HlmiVz0SqNQ)
+# Cronograma das Sprints
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+## Cronograma das Sprints (clique aqui)
+  
