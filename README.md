@@ -49,5 +49,5 @@ Feira de Soluções| 12/12/2024|	a fazer	| Ver Relatório
 - [SCRUM](https://www.youtube.com/watch?v=HlmiVz0SqNQ)
 # Cronograma das Sprints
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-## Cronograma das Sprints (clique aqui)
+### Cronograma das Sprints (clique aqui)
   
