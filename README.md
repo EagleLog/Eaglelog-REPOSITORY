@@ -65,7 +65,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   - Canvas
     # Burndown
     ## Sprint 0
-    -Power BI
+    - Power BI
     
     
     
