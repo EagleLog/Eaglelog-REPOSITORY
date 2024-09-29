@@ -50,4 +50,22 @@ Feira de Soluções| 12/12/2024|	a fazer	| Ver Relatório
 # Cronograma das Sprints
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
   #### Cronograma das Sprints [clique aqui](https://github.com/orgs/EagleLog/projects/5/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C135504943%2C135501386%2C135505355%2C135505949%5D0)
-  
+  # Backlog do produto
+
+# Regras de Negócio 
+### Requisitos funcionais
+- Conteúdo da apresentação
+- Relatórios
+- Funcionabilidade do Power BI
+  ### Requisitos não funcionais
+  - Usar tecnologias especifícas/apoio/tecnológicas
+  - Metodologias ágil
+  - Jira
+  - Power Bi
+  - Canvas
+    # Burndown
+    ## Sprint 0
+    -Power BI
+    
+    
+    
