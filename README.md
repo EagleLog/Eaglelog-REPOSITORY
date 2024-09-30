@@ -3,8 +3,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 - Projeto
 - Equipe
-  ![image](https://github.com/user-attachments/assets/3530be72-9749-41c8-9dcc-ec3f70228c51)
-
 - Objetivo do Projeto
 - Funcionalidades e registros das sprints
 - Cronograma das Sprints
@@ -15,14 +13,14 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
   # Projeto
  ** Sprint |**	Previsão |	**Status |	**Histórico
 :--------- | :--------- | :--------- | :---------
-Kick Off|	02/09/2024|	concluído|	(Ver Relatório)[
+Kick Off|	02/09/2024|	concluído|	[Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 Backlog |	30/09/2024	|em progresso |  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 01|	14/10/2024|	a fazer | [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 02|	04/11/2024	|a fazer |	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 03|	25/11/2024|	a fazer	|  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 # Equipe 
-![images](https://github.com/user-attachments/assets/8c823517-6333-43d1-9f39-5d4e364ca310)
+ ![image](https://github.com/user-attachments/assets/3530be72-9749-41c8-9dcc-ec3f70228c51)
 # Objetivo do Projeto 
 - Mapear as principais mercadorias exportadas e importadas pelos municípios da RMVALE e Litoral Norte em 2024;
 - Identificar os potenciais volumes de carga que poderiam ser movimentados pelo Aeroporto de SJK;
@@ -30,7 +28,9 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 - Propor estratégias para atrair empresas e setores da região a utilizarem o aeroporto como ponto de movimentação de suas cargas.
   # Funcionalidades e registros das sprints
   ## Sprint 1 - Power BI
-  ![bc5f4901-sprint-de-projetos-1536x620](https://github.com/user-attachments/assets/8be6b42b-7d40-4943-8c28-f803ef921b3d)
+ ![image](https://github.com/user-attachments/assets/11b38c6d-4e3d-4c75-acc7-1b42ee5ba1a9)
+![image](https://github.com/user-attachments/assets/03b49550-0da6-4311-9bb6-8733b16aa4df)
+
   ## Sprint 2 - Power BI
   <img width="991" alt="c4fcfbec-economia-de-projetos" src="https://github.com/user-attachments/assets/84a5f619-fe89-4451-bad0-8ace9831671f">
 ## Sprint 3 - Power BI 
@@ -60,13 +60,27 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Relatórios
 - Funcionabilidade do Power BI
   ### Requisitos não funcionais
-  - Usar tecnologias especifícas/apoio/tecnológicas
-  - Metodologias ágil
-  - Jira
-  - Power Bi
-  - Canvas
-    ## Sprint 0
-    - Power BI
-    
+- Usar tecnologias especifícas/apoio/tecnológicas
+- Metodologias ágil
+- Jira
+- Power Bi
+- Canvas
+  # Sprint 0. Concepção
+- Criação e organização do Github;
+- Definição de posições de cada membro;
+- Criação e organização do Jira Software;
+- Estudo e compreensão da base de dados;
+-  Nivelamento de conhecimento sobre a base de dados;
+
+  # Autores
+ ** Função |**	Nome | **LinkedIn
+:--------- | :--------- | :--------- 
+Product Owner|	Fernanda S.| [Linkedin Badge](http://www.linkedin.com/in/fernanda-sant-ana-57a910326)
+Scrum Master|	Emilly A.	| [Linkedin Badge](https://www.linkedin.com/in/emilly-ajala-15a34622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Dev |	Alana R|[Linkedin Badge](https://www.linkedin.com/in/alana-ro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Dev|	Joyce M.|	[Linkedin Badge](https://www.linkedin.com/in/joyce-moura-barros-ab0286284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Dev| Cauan C.| [Linkedin Badge](https://br.linkedin.com/in/cauan-cesar-214b77251)
+Dev| João P|	[Linkedin Badge](https://www.linkedin.com/in/jo%C3%A3o-pedro-vargas-dos-santos-973b44329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Dev| Felipe K| [Linkedin Badge](https://www.linkedin.com/in/felipe-kawan-850aa9226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
     
     
