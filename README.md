@@ -79,7 +79,7 @@ Product Owner|	Fernanda S.| [Linkedin Badge](http://www.linkedin.com/in/fernanda
 Scrum Master|	Emilly A.	| [Linkedin Badge](https://www.linkedin.com/in/emilly-ajala-15a34622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Dev |	Alana R|[Linkedin Badge](https://www.linkedin.com/in/alana-ro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Dev|	Joyce M.|	[Linkedin Badge](https://www.linkedin.com/in/joyce-moura-barros-ab0286284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-Dev| Cauan C.| [Linkedin Badge](https://br.linkedin.com/in/cauan-cesar-214b77251)
+Dev| Cauan C.| [Linkedin Badge](https://github.com/user-attachments/assets/77592c45-0582-4bbf-919e-7309cc619788)
 Dev| João P|	[Linkedin Badge](https://www.linkedin.com/in/jo%C3%A3o-pedro-vargas-dos-santos-973b44329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Dev| Felipe K| [Linkedin Badge](https://www.linkedin.com/in/felipe-kawan-850aa9226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
     
