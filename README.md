@@ -3,6 +3,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 - Projeto
 - Equipe
+  ![image](https://github.com/user-attachments/assets/3530be72-9749-41c8-9dcc-ec3f70228c51)
+
 - Objetivo do Projeto
 - Funcionalidades e registros das sprints
 - Cronograma das Sprints
@@ -13,12 +15,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
   # Projeto
  ** Sprint |**	Previsão |	**Status |	**Histórico
 :--------- | :--------- | :--------- | :---------
-Kick Off|	02/09/2024|	concluído|	Ver Relatório
-Backlog |	30/09/2024	|em progresso |	Ver Relatório
-01|	14/10/2024|	a fazer |	Ver Relatório
-02|	04/11/2024	|a fazer |	Ver Relatório
-03|	25/11/2024|	a fazer	| Ver Relatório
-Feira de Soluções| 12/12/2024|	a fazer	| Ver Relatório
+Kick Off|	02/09/2024|	concluído|	(Ver Relatório)[
+Backlog |	30/09/2024	|em progresso |  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+01|	14/10/2024|	a fazer | [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+02|	04/11/2024	|a fazer |	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+03|	25/11/2024|	a fazer	|  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 # Equipe 
 ![images](https://github.com/user-attachments/assets/8c823517-6333-43d1-9f39-5d4e364ca310)
 # Objetivo do Projeto 
@@ -63,7 +65,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   - Jira
   - Power Bi
   - Canvas
-    # Burndown
     ## Sprint 0
     - Power BI
     
