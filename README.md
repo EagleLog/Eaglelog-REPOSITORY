@@ -67,14 +67,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Jira
 - Power Bi
 - Canvas
-  # Sprint 0. Concepção
+  # Sprint 1. Concepção
 - Criação e organização do Github;
 - Definição de posições de cada membro;
 - Criação e organização do Jira Software;
 - Estudo e compreensão da base de dados;
 -  Nivelamento de conhecimento sobre a base de dados;
 
-  # Sprint 1. 
+  # Sprint 2. 
 - Colocar mapa interativo da RMVALE
 -  Inserir filtro de modal na guia "RMVALE" em relação ao gráfico mapa
 -  Inserir visualização na guia "RMVALE" de produto com maior valor agregado em relação ao gráfico
