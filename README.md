@@ -28,8 +28,9 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 - Propor estratégias para atrair empresas e setores da região a utilizarem o aeroporto como ponto de movimentação de suas cargas.
   # Funcionalidades e registros das sprints
   ## Sprint 1 - Power BI
- ![image](https://github.com/user-attachments/assets/11b38c6d-4e3d-4c75-acc7-1b42ee5ba1a9)
-![image](https://github.com/user-attachments/assets/03b49550-0da6-4311-9bb6-8733b16aa4df)
+ ![WhatsApp Image 2024-10-15 at 22 06 37](https://github.com/user-attachments/assets/443410b4-bcee-4b91-9a3e-d2bba6c5f848)
+![WhatsApp Image 2024-10-16 at 08 50 28](https://github.com/user-attachments/assets/59f6c1e3-bc64-4f09-8bcb-5b42709a1541)
+
 
   ## Sprint 2 - Power BI
   <img width="991" alt="c4fcfbec-economia-de-projetos" src="https://github.com/user-attachments/assets/84a5f619-fe89-4451-bad0-8ace9831671f">
