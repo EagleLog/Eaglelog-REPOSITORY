@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
  ** Sprint |**	Previsão |	**Status |	**Histórico
 :--------- | :--------- | :--------- | :---------
 Kick Off|	02/09/2024|	concluído|	[Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
-Backlog |	30/09/2024	|em progresso |  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+Backlog |	30/09/2024	|em progresso |  [Ver Relatório](file:///C:/Users/usuario/Downloads/EAGLELOG1.pdf)
 Sprint 1|	14/10/2024|	a fazer | [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 Sprint2|	04/11/2024	|a fazer |	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 Sprint 3|	25/11/2024|	a fazer	|  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
