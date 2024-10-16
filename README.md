@@ -34,6 +34,7 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 
   ## Sprint 2 - Power BI
   <img width="991" alt="c4fcfbec-economia-de-projetos" src="https://github.com/user-attachments/assets/84a5f619-fe89-4451-bad0-8ace9831671f">
+
 ## Sprint 3 - Power BI 
 <img width="991" alt="2f377ced-indicadores-de-projetos" src="https://github.com/user-attachments/assets/032d91b6-b660-4842-8853-92d2baac4eb9">
 
