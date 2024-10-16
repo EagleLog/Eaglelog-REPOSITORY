@@ -72,6 +72,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Estudo e compreensão da base de dados;
 -  Nivelamento de conhecimento sobre a base de dados;
 
+  ## Sprint 1. 
+- Colocar mapa interativo da RMVALE
+-  Inserir filtro de modal na guia "RMVALE" em relação ao gráfico mapa
+-  Inserir visualização na guia "RMVALE" de produto com maior valor agregado em relação ao gráfico
+-  Inicio do desenvolvimento do gráfico de Pareto/Curva ABC
+
   # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
