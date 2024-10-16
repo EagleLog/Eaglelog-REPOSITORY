@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
  ** Sprint |**	Previsão |	**Status |	**Histórico
 :--------- | :--------- | :--------- | :---------
 Kick Off|	02/09/2024|	concluído|	[Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
-Backlog |	30/09/2024	|concluído|  [Ver Relatório](file:///C:/Users/usuario/Downloads/EAGLELOG1.pdf)
+Backlog |	30/09/2024	|concluído|  [Ver Relatório](https://github.com/user-attachments/files/17400247/EAGLELOG1.pdf)
 Sprint 1|	14/10/2024|	em progresso | [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 Sprint2|	04/11/2024	|a fazer |	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 Sprint 3|	25/11/2024|	a fazer	|  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
@@ -55,6 +55,7 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
   #### Cronograma das Sprints [clique aqui](https://github.com/orgs/EagleLog/projects/10/views/1)
   # Backlog do produto
+[BACKLOG EAGLELOG.pdf](https://github.com/user-attachments/files/17400222/BACKLOG.EAGLELOG.pdf)
 
 # Regras de Negócio 
 ### Requisitos funcionais
@@ -67,7 +68,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - Jira
 - Power Bi
 - Canvas
-  # Sprint 1. Concepção
+
+# Sprint 1. Concepção
 - Criação e organização do Github;
 - Definição de posições de cada membro;
 - Criação e organização do Jira Software;
