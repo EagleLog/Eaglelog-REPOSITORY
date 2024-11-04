@@ -83,6 +83,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 -  Inserir visualização na guia "RMVALE" de produto com maior valor agregado em relação ao gráfico
 -  Inicio do desenvolvimento do gráfico de Pareto/Curva ABC
 
+  # Sprint 3. 
+- Conclusão dos indicadores do Pareto/Curva ABC
+-  Inserir filtro de modal na guia "Gráfico" em relação ao gráfico Pareto
+-  Inserir visualização no guia "GRÁFICO" do produto com maior valor agregado em relação ao gráfico Pareto 
+- Especificar qais cargas são interessantes trazer para o aeroporto SJK
+- Começar a estruturar desing do power BI 
+
   # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
