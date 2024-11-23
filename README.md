@@ -87,7 +87,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 -  Inserir filtro de modal na guia "Gráfico" em relação ao gráfico Pareto
 -  Inserir visualização no guia "GRÁFICO" do produto com maior valor agregado em relação ao gráfico Pareto 
 - Especificar qais cargas são interessantes trazer para o aeroporto SJK
-- Começar a estruturar desing do power BI 
+- Começar a estruturar desing do power BI
+
+  # Sprint 4. 
+- Finalizar a estrutura do design no
+Power BI
 
   # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
