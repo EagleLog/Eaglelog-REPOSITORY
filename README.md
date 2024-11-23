@@ -17,7 +17,7 @@ Kick Off|	02/09/2024|	concluído|	[Ver Relatório](https://fatec-team-z9ekc4ba.a
 Sprint 1|	30/09/2024	|concluído|  [Ver Relatório](https://github.com/user-attachments/files/17400247/EAGLELOG1.pdf)
 Sprint 2|	14/10/2024|	concluído | [Ver Relatório](https://github.com/user-attachments/files/17403337/EAGLELOG1.docx)
 Sprint 3|	04/11/2024	|concluído|	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
-Sprint 4|	25/11/2024|	em progresso	|  [Ver Relatório](https://github.com/user-attachments/files/17882604/Inicio.Relatorio.1.docx)
+Sprint 4|	25/11/2024|	em progresso	|  [Ver Relatório]()
 Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 # Equipe 
  ![image](https://github.com/user-attachments/assets/3530be72-9749-41c8-9dcc-ec3f70228c51)
