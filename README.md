@@ -25,7 +25,6 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 - Mapear as principais mercadorias exportadas e importadas pelos municípios da RMVALE e Litoral Norte em 2024;
 - Identificar os potenciais volumes de carga que poderiam ser movimentados pelo Aeroporto de SJK;
 - Analisar a viabilidade logística e econômica da utilização do aeroporto para tais operações;
-- Propor estratégias para atrair empresas e setores da região a utilizarem o aeroporto como ponto de movimentação de suas cargas.
   # Funcionalidades e registros das sprints
   ## Sprint 1 - Power BI
  ![WhatsApp Image 2024-10-15 at 22 06 37](https://github.com/user-attachments/assets/443410b4-bcee-4b91-9a3e-d2bba6c5f848)
