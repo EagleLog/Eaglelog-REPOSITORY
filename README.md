@@ -17,7 +17,8 @@ Kick Off|	02/09/2024|	concluído|	[Ver Relatório](https://fatec-team-z9ekc4ba.a
 Sprint 1|	30/09/2024	|concluído|  [Ver Relatório](https://github.com/user-attachments/files/17400247/EAGLELOG1.pdf)
 Sprint 2|	14/10/2024|	concluído | [Ver Relatório](https://github.com/user-attachments/files/17403337/EAGLELOG1.docx)
 Sprint 3|	04/11/2024	|concluído|	 [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
-Sprint 4|	25/11/2024|	em progresso	|  [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
+Sprint 4|	25/11/2024|	em progresso	|  [Ver Relatório](https://github.com/user-attachments/files/17882604/Inicio.Relatorio.1.docx)
+
 Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z9ekc4ba.atlassian.net/jira/software/projects/SCRUM/boards/1)
 # Equipe 
  ![image](https://github.com/user-attachments/assets/3530be72-9749-41c8-9dcc-ec3f70228c51)
@@ -37,6 +38,8 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 ## Sprint 3 - Power BI 
 ![WhatsApp Image 2024-11-03 at 21 05 01](https://github.com/user-attachments/assets/98bb0123-8691-40c7-931e-626add784033)
 ![WhatsApp Image 2024-11-03 at 21 05 01 (1)](https://github.com/user-attachments/assets/f9f9d6fd-49f1-45fc-8a0f-0f4ff62da9a5)
+
+## Sprint 4 - Power BI
 
 # Tenologias Utilizadas 
 ## Produto 
