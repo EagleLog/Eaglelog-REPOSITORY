@@ -39,6 +39,7 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 ![WhatsApp Image 2024-11-03 at 21 05 01 (1)](https://github.com/user-attachments/assets/f9f9d6fd-49f1-45fc-8a0f-0f4ff62da9a5)
 
 ## Sprint 4 - Power BI
+![236a0571-d0a0-46be-8a42-7b193af88e2f](https://github.com/user-attachments/assets/6479b608-7acb-4a06-a363-e701dc760438)
 
 # Tenologias Utilizadas 
 ## Produto 
