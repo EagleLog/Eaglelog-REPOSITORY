@@ -58,7 +58,7 @@ Feira de Soluções| 12/12/2024|	a fazer	| [Ver Relatório](https://fatec-team-z
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
   #### Cronograma das Sprints [clique aqui](https://github.com/orgs/EagleLog/projects/10/views/1)
   # Backlog do produto
-Backlog do produto  [clique aqui](https://github.com/user-attachments/files/17400222/BACKLOG.EAGLELOG.pdf)
+c
 
 # Regras de Negócio 
 ### Requisitos funcionais
