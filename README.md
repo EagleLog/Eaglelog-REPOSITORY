@@ -27,9 +27,6 @@ Feira de Soluções| 12/12/2024|	concluído| [Ver Relatório](https://fatec-team
 - Analisar a viabilidade logística e econômica da utilização do aeroporto para tais operações;
   # Funcionalidades e registros das sprints
   ## Sprint 1 - Power BI
- ![WhatsApp Image 2024-10-15 at 22 06 37](https://github.com/user-attachments/assets/443410b4-bcee-4b91-9a3e-d2bba6c5f848)
-![WhatsApp Image 2024-10-16 at 08 50 28](https://github.com/user-attachments/assets/59f6c1e3-bc64-4f09-8bcb-5b42709a1541)
-
 
   ## Sprint 2 - Power BI
  ![Captura de tela_4-11-2024_111048_www canva com](https://github.com/user-attachments/assets/c2cfbc47-4381-4d06-9d4c-1354a2f56fcf)
@@ -58,7 +55,9 @@ Feira de Soluções| 12/12/2024|	concluído| [Ver Relatório](https://fatec-team
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontrar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
   #### Cronograma das Sprints [clique aqui](https://github.com/orgs/EagleLog/projects/10/views/1)
   # Backlog do produto
-c
+![d55c01c4-0d3a-4b6e-bcd5-262284026b66](https://github.com/user-attachments/assets/41e445c7-8313-4cf0-b59d-038a8f65cd19)
+![16b9ee8d-7247-4dd8-9701-338c93beef59](https://github.com/user-attachments/assets/9729f983-a66c-47b2-a3ab-13fad22e4e8f)
+
 
 # Regras de Negócio 
 ### Requisitos funcionais
